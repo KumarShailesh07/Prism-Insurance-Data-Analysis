@@ -251,7 +251,7 @@ python wordcloud_sentiment.py
 ## 👤 Author
 **Shailesh Kumar**
 - 🔗 LinkedIn: www.linkedin.com/in/shailesh-kumar7
-- 🐙 GitHub: [your github profile]
+- 🐙 GitHub: https://github.com/KumarShailesh07
 
 ---
 

@@ -82,7 +82,7 @@ Prism-Insurance-Data-Analytics/
 
 ## 📊 Dashboard 1 — Insurance Business Overview
 
-![Insurance Business Overview](Screenshots/Insurance%20Business%20Overview.png)
+<img width="638" height="359" alt="Insurance Business Overview" src="https://github.com/user-attachments/assets/8bb4db77-bbb6-4c3c-a018-bc45434a1257" />
 
 ### Key KPIs
 | Metric | Value |
@@ -137,7 +137,8 @@ Prism-Insurance-Data-Analytics/
 
 ## 📊 Dashboard 2 — Customer Sentiment Analysis
 
-![Customer Sentiment Analysis](Screenshots/Customer%20Sentiment%20Analysis.png)
+<img width="639" height="364" alt="Customer Sentiment Analysis" src="https://github.com/user-attachments/assets/da94ad30-1949-449c-9f02-0c0e9537ca8d" />
+
 
 ### Sentiment Distribution
 | Category | Count | Percentage |
@@ -249,7 +250,7 @@ python wordcloud_sentiment.py
 
 ## 👤 Author
 **Shailesh Kumar**
-- 🔗 LinkedIn: [your linkedin profile]
+- 🔗 LinkedIn: www.linkedin.com/in/shailesh-kumar7
 - 🐙 GitHub: [your github profile]
 
 ---

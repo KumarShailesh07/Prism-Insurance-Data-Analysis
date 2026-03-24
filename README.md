@@ -1,6 +1,6 @@
 # 🏢 Prism Insurance Pvt. Ltd. — Data Analysis Dashboard
 
-> An end-to-end Data Analytics project built using SQL Server, Excel, Python, and Power BI
+> An end-to-end Data Analysis project built using SQL Server, Excel, Python, and Power BI
 > to analyze insurance business performance and customer sentiment for Prism Insurance Pvt. Ltd.
 
 ---
